@@ -4,18 +4,39 @@
 
 # Projects
 
+## RunOrg
+
+#### Client: 
+Domain: Event organizer (Running contest)
+Location: Timis (RO)
+
+#### Implementation
+Duration: in progress
+
+#### Technologies
+Python 3.7
+Django
+SQLite
+
+#### Project description
+
+
 ## EasyLogistics
 
-#### Client(s)
+#### Client: SC Eclipsa
 Domain: Shoes manufacturing
 Location: Timis (RO)
 
+## EasyLogistics (2)
+
+#### Client: SC Filty SA
+Domain: Shoes manufacturing
+Location: Timisoara (RO)
 
 
+## EasyLogistics (3)
 
-## ROA
-
-#### Client 
+#### Client: ROA
 Domain: Shoes manufacturing
 Location: Timisoara (RO)
 
