@@ -29,7 +29,39 @@ Family of lightweight data shippers.
 Extensible. [Community beats](https://www.elastic.co/guide/en/beats/libbeat/current/community-beats.html)
 
 
-## Logstash
+## [Logstash](https://www.elastic.co/guide/en/logstash/current/index.html)
+
+The Logstash event processing pipeline has three stages: inputs → filters → outputs. Inputs generate events, filters modify them, and outputs ship them elsewhere
+
+Inputs: 
+- file
+- syslog (port 514)
+- redis
+- beats
+- [...](https://www.elastic.co/guide/en/logstash/current/input-plugins.html)
+
+Filters:
+- grok
+- mutate - rename, remove, replace, modify fields
+- drop - drop event
+- clone
+- geoip - add geolocation info
+- [...](https://www.elastic.co/guide/en/logstash/current/filter-plugins.html)
+
+Outputs:
+- elasticsearch
+- file
+- graphite
+- statsd
+- [...](https://www.elastic.co/guide/en/logstash/current/output-plugins.html)
+
+Codecs:  
+   (easily separate the transport of your messages from the serialization process):
+- json
+- multiline
+- [...](https://www.elastic.co/guide/en/logstash/current/codec-plugins.html)
+
+[logstash.yml](https://www.elastic.co/guide/en/logstash/current/logstash-settings-file.html)
 
 ## Kibana
 
