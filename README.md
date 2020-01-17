@@ -14,7 +14,7 @@ Location: Timis (RO)
 Duration: in progress
 
 #### Technologies
-Python 3.7
+Python 3.7 ![alt text][image/python_logo.jpg]
 Django
 SQLite
 
