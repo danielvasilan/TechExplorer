@@ -78,6 +78,6 @@ A new schema for the APEX application contains views for the objects in the prod
 |2008-2014|-|![Filty](media/comp/fty_64.png)|Production|ERP|![Oracle](media/tech/oracle_64.png)|Dev/Arch|
 |2011-2013|![ACI](media/comp/aci_64.png)|![ACI](media/comp/aci_64.png)|Banking|Fraud Detection|![Oracle](media/tech/oracle_64.png) ![Sqlite](media/tech/sqlserver_64.png)|Dev/Arch/Lead|
 |2013-2015|![Softvision](media/comp/sv_64.png)|![SnapOn](media/comp/so_64.png)|Services|Cloud CRM|![SqlServer](media/tech/sqlserver_64.png) ![MarkLogic](media/tech/mark_64.png)|Dev/Arch|
-|2015-2016|![Waterford](media/comp/wtf_64.png)|![Waterford](media/comp/wtf_64.png)|Education|DB + BI|![Oracle](media/tech/oracle_64.png)  ![Jasper](media/tech/jasper_64.png)|Dev|
+|2015-2016|![Waterford](media/comp/wtf_64.png)|![Waterford](media/comp/wtf_64.png)|Education|DB + BI|![Oracle](media/tech/oracle_64.png) ![AWS](media/tech/aws_64.png) ![Jasper](media/tech/jasper_64.png)|Dev|
 |2016-2018|![BearingPoint](media/comp/BP_64.png)|![BearingPoint](media/comp/BP_64.png)|Fintech|Content Migration|![Java](media/tech/java_64.png)|Dev/Manager|
 |2018-now|![Lasting](media/comp/LST_64.png)|![DE](media/comp/DE_64.png)|Automotive|BI|![Java](media/tech/java_64.png)|Dev/Arch|
