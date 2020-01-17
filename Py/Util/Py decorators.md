@@ -1,10 +1,10 @@
 
 
-## Python decorators
+# Python decorators
 
 https://medium.com/better-programming/decorators-in-python-72a1d578eac4
 
-### [Scenario 1]: wrap another function
+## [Scenario 1]: wrap another function
 
 ``` python
 import functools
@@ -41,7 +41,7 @@ Finished ‘doubled_and_add’ in 0.0119 secs
 Result : 999999000000
 Finished ‘doubled_and_add’ in 0.0897 secs
 ```
-### [Scenario 2]: Lightweight plugins architecture
+## [Scenario 2]: Lightweight plugins architecture
 
 ``` python
 PLUGINS = dict()
@@ -67,7 +67,7 @@ print(operation('add', 2, 3))
 print(operation('multiply', 2, 3))
 ```
 
-### [Decorating classes]
+## [Decorating classes]
 
 ``` python 
 class Circle:
@@ -137,7 +137,7 @@ will output:
 Finished 'Calculator' in 2.001 secs
 ```
 
-### [Nesting decorators]
+## [Nesting decorators]
 
 ```python
 def hello(func):
@@ -272,4 +272,37 @@ say()
 say()
 say()
 print(say.num_calls)
+```
+
+## [ Class-Based Decorators with Arguments ]
+
+```python
+class ClassDecorator(object):
+
+    def __init__(self, arg1, arg2):
+        print("Arguements of decorator %s, %s" % (arg1, arg2))
+        self.arg1 = arg1
+        self.arg2 = arg2
+
+    def __call__(self, func):
+        functools.update_wrapper(self, func)
+
+        def wrapper(*args, **kwargs):
+            return func(*args, **kwargs)
+        return wrapper
+
+@ClassDecorator("arg1", "arg2")
+def print_args(*args):
+    for arg in args:
+        print(arg)
+
+print_args(1, 2, 3)
+```
+
+Output
+```cmd
+Arguments of decorator arg1, arg2
+1
+2
+3
 ```
