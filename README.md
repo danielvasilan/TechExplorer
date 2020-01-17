@@ -12,11 +12,11 @@ Location: Timis (RO)
 
 #### Implementation
 Duration: in progress
-
+ 
 #### Technologies
-Python 3.7 ![alt text][image/python_logo.jpg]
-Django
-SQLite
+ Python 3.7 ![Python](media/python_logo_24_24.png)
+ Django ![Django](media/django_logo_24_24.png) 
+ SQLite ![Sqlite](media/sqlite_logo_43_24.png)
 
 #### Project description
 
