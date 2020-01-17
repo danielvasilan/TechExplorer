@@ -1,8 +1,7 @@
-About
 
-[About the ELK stack](ReadMe.md)
+[About the ELK stack](elastic.md)
 
-Installation
+[Installation](install.md)
 
-Samples
+[Code samples](samples.md)
 
