@@ -70,7 +70,7 @@ The business logic remained in the same schema as it was for the VBA application
 A new schema for the APEX application contains views for the objects in the production schema and instead-of triggers that calls the business logic from the proper package
 
 
-|Period|Employer|Client_____|Domain|Project Type|Technologies|Role|
+|Period|Employer|Client|Domain|Project Type|Technologies|Role|
 |---|---|---|---|---|---|--|
 |2005-2007|![Zoppas](media/comp/zi_64.png)|![Zoppas](media/comp/zi_64.png)|Production|ERP|![Oracle](media/tech/oracle_64.png) ![VB](media/tech/vb_64.png)|Dev/Arch|
 |2005-2007|-|![Eclipsa](media/comp/ecl_64.png)|Production|ERP|![Oracle](media/tech/oracle_64.png) ![VBA](media/tech/vba_64.png)|Dev/Arch|
