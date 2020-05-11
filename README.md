@@ -72,7 +72,7 @@ A new schema for the APEX application contains views for the objects in the prod
 
 |Period|Employer|Client|Domain|Project Type|Technologies|Role|
 |---|---|---|---|---|---|--|
-|2005-2007|![Zoppas](media/comp/zi_64.png)|![Zoppas](media/comp/zi_64.png)|Production|ERP|![Oracle](media/tech/oracle_64.png) ![VB](media/tech/vb_64.png)|Dev/Arch|
+|2004-2010|![Zoppas](media/comp/zi_64.png)|![Zoppas](media/comp/zi_64.png)|Production|ERP|![Oracle](media/tech/oracle_64.png) ![VB](media/tech/vb_64.png)|Dev|
 |2005-2007|-|![Eclipsa](media/comp/ecl_64.png)|Production|ERP|![Oracle](media/tech/oracle_64.png) ![VBA](media/tech/vba_64.png)|Dev/Arch|
 |2007|-|![Clagi](media/comp/clg_64.png)|Production|ERP|![Oracle](media/tech/oracle_64.png) ![VBA](media/tech/vba_64.png)|Dev/Arch|
 |2008-2014|-|![Filty](media/comp/fty_64.png)|Production|ERP|![Oracle](media/tech/oracle_64.png) ![VBA](media/tech/vba_64.png)|Dev/Arch|
