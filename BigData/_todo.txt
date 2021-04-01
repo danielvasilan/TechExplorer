@@ -1,0 +1,10 @@
+- Hadoop / HDFS
+- MapReduce
+
+
+
+Others. may be added in another folder
+
+- JDBC / ODBC
+- Apache Thrift
+- YARN

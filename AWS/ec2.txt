@@ -1,0 +1,55 @@
+
+
+EC2 price models
+ - on demand
+	(+) no upfront payment or long term commitment
+	(+) short term app, spiky, unpredictable workloads
+	(+) first time apps on aws
+ - reserved (1y / 3y)
+	(+) predictable usage apps
+	(+) apps that require reserved capacity
+	(+) when able to pay upfront for cost savings
+	types:
+		- standard - up to 75% discount(baed on contract length)
+		- convertible - up to 54% discount 
+		- scheduled (time window reservations) 
+ - spot instance 
+	(bid price, 2 minutes before - alert). Up to 90% discount
+	(+) app with flexible start/end
+	not charged for partial hour if Amazon stops it
+	spot block - 1 to 6 hrs - prevents the instance to terminate
+ - dedicated hosts
+	(+) regulatory reqs when multi tenant virtualization not possible
+	(+) licensing that do not support multi-tenancy or cloud (Oracle?)
+	Purchased 
+		- on demand (hourly)
+		- reservation (up to 70% discount)
+
+EC2 types 
+F - FPGA
+I - IOPS
+G - Graphics
+H - High Disk Throughput
+T - Cheap general
+D - Density
+R - RAM
+M - Main choice gen purpose
+C - Compute
+P - Graphics / GPU 
+X - Extreme memory
+Z - Extreme memory and CPU
+A - arm based workloads
+U - bare metal
+
+
+ENI
+	elastic network interface - virtual network card
+	- 1 primary private IPv4 address
+	- 1 or more secondary IPv4 addresses
+	- 1 elastic IP address per private IPv4 
+	- 1 public IPv4 
+	- 1 or more IPv6 addresses
+	- 1 or moe security groups 
+	- MAC address 
+	- 
+

@@ -1,0 +1,37 @@
+eu
+	Ire 		2007 3
+	Fkft		2014 3
+	London 		2016 3
+	Paris		2017 3
+	Stockolm 	2018 3
+	Milan 		2020 3
+	* Spain 
+	* Switzerland
+am
+	w N Caro	2009 3
+	w gov 		2011 3
+	w Oregon	2011 4
+	Canada		2016 3
+	e Ohio		2016 3
+	e gov		2018 3
+	e N Virg	2006 6
+	s sao paolo	2011 3
+afr	
+	cape town	2020 3
+aus
+	sydney		2012 3
+	* melbourne
+asia
+	bahrain 	2019 3
+	mumbai ind	2016 3
+	hong kong 	2019 3
+	ningxia ch		 3
+	beijing ch		 2
+	seoul 		2016 4
+	tokio 		2011 4
+	singapore	2010 3
+	
+	* osaka jap
+	* hyderabai india
+	* jakarta
+	
