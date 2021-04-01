@@ -1,0 +1,9 @@
+
+OSReport/logs
+.idea/*
+*.pyc
+trash/*
+OSReport/data/*/*
+consolidated_report_*
+venv
+logs
