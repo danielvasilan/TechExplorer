@@ -6,7 +6,7 @@ Distributed data warehouse infra on top of Hadoop HDFS, making querying and anal
 
 #### Architecture
 
-![Hive Architecture](media/hive-architecture.jpg)
+![Hive Architecture](_media/hive-architecture.jpg)
 
 #### HiveQL (HQL)
 
@@ -30,4 +30,4 @@ Types
 Can use MSSQL, Oracle, Mysql, Postgres, Derby
 
 #### Data Model
-![Hive Architecture](media/hive-data-model.jpg)
+![Hive Architecture](_media/hive-data-model.jpg)
